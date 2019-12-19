@@ -1,6 +1,6 @@
 
 
-<div align="center"><strong>features map for a locally deployed react app built on top of  </strong></div>
+<div align="center"><strong>features map for a locally deployed react app built on top of  [reactboilerplate](docs/general/introduction.md) </strong></div>
 <div align="center">A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices</div>
 
 ## Features
@@ -122,5 +122,5 @@ This project would not be possible without the support of these amazing folks. [
 This project is licensed under the MIT license, Copyright (c) 2019 Maximilian
 Stoiber. For more information see `LICENSE.md`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDYyNzAxODIsMTk0NjcxNzg3MV19
+eyJoaXN0b3J5IjpbLTE2OTc3NTgzMDcsMTk0NjcxNzg3MV19
 -->
